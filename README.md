@@ -1,9 +1,4 @@
-# firstrepository
-
-
 #Projekti im i pare
-
-
 Kodi i ri:
 
     let x =100 
@@ -11,5 +6,4 @@ Kodi i ri:
    
 
 ##Contact me
-[My facebook]
-(https://www.facebook.com/getuar.sopa)
+[My Facebook](https://www.facebook.com/getuar.sopa)
