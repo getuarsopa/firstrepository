@@ -6,7 +6,5 @@ Kodi i ri:
    
 
 ##Contact me
-[My facebook
-](facebook.com/getuar.sopa)
-[My email
-](sopagetuar@gmail.com)
+[My facebook]
+(https://www.facebook.com/getuar.sopa)
