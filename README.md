@@ -2,6 +2,8 @@
 
 
 #Projekti im i pare
+
+
 Kodi i ri:
 
     let x =100 
